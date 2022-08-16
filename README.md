@@ -8,7 +8,9 @@
 
 ## For better structure
 
-! [Semantic](https://www.aleksandrhovhannisyan.com/assets/images/XG6AH2VZqt-1158.jpeg)
+[Semantic](https://www.aleksandrhovhannisyan.com/assets/images/XG6AH2VZqt-1158.jpeg)
+
+<a href="[https://www.example.com/my great page](https://www.aleksandrhovhannisyan.com/assets/images/XG6AH2VZqt-1158.jpeg)">Semantic</a>
 
 ## References
 
