@@ -8,14 +8,14 @@
 
 ## For better structure
 
-[Semantic](https://www.aleksandrhovhannisyan.com/assets/images/XG6AH2VZqt-1158.jpeg)
+! [Semantic] (https://www.aleksandrhovhannisyan.com/assets/images/XG6AH2VZqt-1158.jpeg)
 
-<a href="[https://www.example.com/my great page](https://www.aleksandrhovhannisyan.com/assets/images/XG6AH2VZqt-1158.jpeg)">Semantic</a>
+
 
 ## References
 
-- [What is Semantic HTML](https://en.wikipedia.org/wiki/Semantic_HTML)
+- [What is Semantic HTML] (https://en.wikipedia.org/wiki/Semantic_HTML)
 
-- [You Only Need 10 HTML Tags](http://www.99lime.com/_bak/topics/you-only-need-10-tags/)
+- [You Only Need 10 HTML Tags] (http://www.99lime.com/_bak/topics/you-only-need-10-tags/)
 
-- [mdn HTML docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [mdn HTML docs] (https://developer.mozilla.org/en-US/docs/Web/HTML)
