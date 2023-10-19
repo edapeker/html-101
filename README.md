@@ -1,4 +1,4 @@
-# HTML layout examle for beginners
+# HTML layout example for beginners
 
 ## Semantic  and Needed  Tags in HTML5 
 
